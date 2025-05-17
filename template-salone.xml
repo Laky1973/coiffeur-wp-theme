@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <item>
+    <title>Homepage Parrucchiere</title>
+    <content:encoded><![CDATA[
+    <!-- IT -->
+    <div lang="it">
+      <h2>Salone [NOME]</h2>
+      <p>Trattamenti professionali</p>
+    </div>
+    <!-- DE -->
+    <div lang="de">
+      <h2>Salon [NAME]</h2>
+      <p>Professionelle Behandlungen</p>
+    </div>
+    ]]></content:encoded>
+  </item>
+</channel>
+</rss>
